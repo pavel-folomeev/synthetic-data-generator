@@ -8,5 +8,9 @@ namespace synthetic_data_generator
 {
     class FileManager
     {
+        public FileManager()
+        {
+
+        }
     }
 }
